@@ -1,0 +1,11 @@
+Communications Plus & Third Party Configurations:
+To get our campus set up for communications, I need to create accounts with sendGrid and Twilio, and then configure communications to work with them.
+Steps:
+First click on Navigation bar under Core click into system administration and Under Data Privacy click Product Installs and Sign in.
+
+Data Integrity:
+Steps:
+In core--> Campus-wide definitions--> Contact definitions
+Sort EMails by priority order by clicking on Edit, make chnages and update it.
+Sending out communications:
+Search for person, under Person name we can see all details.
