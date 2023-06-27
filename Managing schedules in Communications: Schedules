@@ -1,0 +1,17 @@
+Best Practices
+*Colloborate with different areas on campus
+*Evaluate communication to identify when it is best to use calendar-driven or term-driven schedules.
+*Automate interaction runs.
+
+Schedules
+Schedules are associated with interaction sets and determine when the first communication in a set will be sent. When the set kicks off,
+the system starts evaluating who will receive the different interactions.
+* Schedules can be recurring
+* The next time the schedule starts, the interaction set will kick off and reevaluate any recipient criteria to ensure only those recepients 
+that still meet the crteria receive the interaction.
+* Schedules let you "set it and forget it"
+* Sets can also use a Kickoff Date instead of selecting a recurring schedule.
+
+Creating and Monitoring schedules
+Under communication hub we have schedules which are in Inactive and active status.
+We can create schedule by entering your requirements  in "Create schedule" tab.
