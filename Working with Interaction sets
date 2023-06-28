@@ -1,0 +1,19 @@
+Overview:
+An interaction set is a group interactios/communications you can send within a particular timeframe. When you create an interaction set, you'll pick a schedule that determines when the first interaction is sent, 
+select interactions to include in the set, and pick the order and timing for when they will be sent out based on the schedule. Delay options let you stagger delivery if you won't want them to go out at once.
+> Like Notepad's action lists, sets contain all the pieces needed to complete a communication workflow.
+* Who should receive the communications.
+* What communications need to be sent.
+* When those communications should start.
+* Conditions on when to skip or stop the communications.
+> Unlike Action Lists, J1 web's interaction sets require no manual intervention. They are evaluated when they run.
+* System adds new recipients when criteria applies to them.
+* System removes recipients when the criteria no longer applies to them.
+* System runs the set according to the schedule selected eliminating the need for a user to manually do it.
+
+Processing Interaction sets:
+3 different ways:
+. When: Go to Define set page and fill the required fields 
+
+Adding Interactions to set:
+Identifying recipients
