@@ -1,0 +1,13 @@
+In communicaiton management base tab we can select the options.
+Roles and Permissions:
+jenzabar recommends copying communication management default roles and tailoring them to your needs. Recommended roles:
+> Communications Administrator
+  . Access all features including managing settings in communications.
+> Communications Schedulers
+  . Add, delete, edit and view schedules permissions.
+> Communications Data set administrators
+  . Add, delete,edit and view data sets permissions.
+> Communications Interaction Administrators.
+  . Add,delete,edit and view interactions and interaction sets permissions.
+> Comunications users
+  . View communications in the Interaction Inventory.
