@@ -1,0 +1,5 @@
+Create Data Sets:
+Data merge and recipients data sets are 2 types of data sets
+--> In data sets tab click on Queries for and select recipients check list
+Build an SQL in SSMS
+In data sets page create a new data set and fill in all details.
