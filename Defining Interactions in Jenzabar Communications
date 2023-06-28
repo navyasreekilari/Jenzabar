@@ -1,0 +1,106 @@
+Introduction to Interactions:
+An interaction is any type of communication with or about an individual or organization in J1 web.
+* Categorized in J1 web as documents, emails, notes, notifications, phone calls, texts, and To Dos.
+* Once defined, can be grouped into sets.
+* Can be reused
+* Sent/applied interactions are associated with recipients records in J1 web.
+Use cases:
+--> Standard Interactions
+* Used for communication orginating from J1 communications.
+* Serve as templates that can be reused
+* Can be grouped and ordered in a repeatable set.
+--> Communication drawer
+* Used when creating communications throughout the system
+   - A user clicks an option to send a communication and the Create new communication drawer appears. Communication drawer interactions your school defines appear as interaction code options that can be associated 
+     with their communication.
+--> Recording Purposes Only Interactions
+* Used for recording communications that happened outside of the system 
+   - Can copy communications from an external source and apply them to records
+* Do not serve as templates.
+--> System Events
+* Originate from the system and are sent when a selected event occurs in J1 web as opposed to being based on a schedule.
+* Future releases will continue to provide additional system event options.
+
+
+> Interactions:
+* Limit who can see the communication
+* Include a reporting reference on what has been communicated to whom 
+* Provide a general overview of the topic of converation
+
+> While interction codes are unique, the codes are not used to determine the uniqueness for statistical purposes.
+* Interactions can change as settings are updated
+* Every time the interaction is used, an interaction history is created to allow analysis of that interaction configuration at the time it was used.
+* Future release will include reporting dashboards within J1 web.
+
+Interaction Access Codes: are loosely based on Desktop's module code stamp and control who can work with or view different interactions based on the roles they belong to.
+* Registrars Grant roles access to interaction codes. Users in the role can work with interactions associated with those codes.
+* Associate codes with interactions during the define process.
+* Each user can set up their primary acces in the General Settings section.
+* Access codes can be associated with any rle in J1 web.
+* Each role can have multiple access codes.
+* Communications administrator/IT is responsible for associating access codes to the system roles and ensuring the appropriate users are assigned to them.
+* As interactions are defined, the communication administrator will be responsible for associating access codes with that interaction which will grant user access to the communicaitons.
+
+Custom Interaction Access Codes:
+* Jenzabr-provided interaction access codes are available. These access codes are based on Jenzabar modules and mirror modules. Code stamps currently available in the Desktop, Notepad.
+* Each interaction can have multiple interaction access codes.
+ - These codes are used for security only; other data is used for reporting.
+
+> We can create our own custom access codes.
+> Grant access to your codes via roles.
+> Codes are associated with interactions when they are defined/created.
+
+My General settings:
+> Commmunication administrators have the option to select a default access code that can e used every time they create an interaction.
+They can select a code that aligns with their primary office.
+1. Select your profile icon in the top right and choose "My General Settings".
+2. From Communication preferences, select the "default Interaction access code". This will be used with every interaction you create but can be changed if needed.
+
+Best Practices:
+> Try to use meaningful interaction names
+> Reuse interactions when possible.
+> Avoid changing interaction definitions.
+> User Interaction Owner code to identify the department responsible for the communication.
+>User Interaction Access codes to control who can see your communication.
+> Define generic interactions for each department for easy communication.
+
+Email Interactions:
+Click on Communication Management hub and go to Define interaction tab.
+There, you can create your own Interaction.
+
+Document Interactions:
+> Generates personalized word documents that can be printed and mailed to your constituents.
+> J1 communications uses a third-party tool that provides word file generation without needing to maintain a microsoft office installation on your J1 web server.
+> Create the word template.
+> To build a document interaction, complete the basics and data merge option steps of the wizard.
+  * Identify the merge data set you plan to use to personalize the communication.
+Word templates:
+In word document write your own letter template and save it as .dtx.
+Next on Jenzabar go into Interaction and select type as "document", give all the fields select the saved documnet in the word and submit.
+
+Note Interactions:
+Go to interactions page: In interaction use (Standard interaction or communication drawer or Internal recording purposes only)
+Select data fields query like first_name, Last_nameor any fields necessary.
+
+Notification Interactions:
+> Notifications are pop-up alerts that appear when recipients are logged into the system. They can also be viewed from the J1 web notification center.
+> Alert users about point-in-time information they need to be aware of but aren't important for long-term storage.
+> Notifications can be generated by the system or created as interactions.
+> Notifications can be sent via J1 web and the campus portal. Students, faculty and employees that are not J1 web users see a pop-up in their active web browser even when they are not actively using the campus portal.
+
+Text Interactions:
+> go into Interaction : Select all required fields , Interaction Use( Standard interaction). In template content fill all required fields and finish the interaction. Lastly, in type select "Text" type interaction.
+
+To Do Interaction:
+> Same as above select new interaction and fill all require fields, Interaction Use( communication drawer) and finish the interaction.
+
+
+
+
+
+
+
+
+
+
+
